@@ -21,7 +21,7 @@ Tendo passado os últimos anos aplicando análise de dados a problemas reais de 
 ## Projetos:
 Veja os meus projetos pessoais:
 
-* **Análise exploratória de dados com dados do Airbnb:** https://bit.ly/2L2cMwy
+* **Análise exploratória de dados com dados do Airbnb:** https://bit.ly/3CbePc7
 
 
 ---
